@@ -50,3 +50,29 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.DS_Store
+*.iml
+*.xml
+*.cmake
+*.marks
+cmake-build-debug/chapter_2/Makefile
+*.make
+*.txt
+*.includecache
+*.internal
+cmake-build-debug/chapter_2/program_exercises/Makefile
+cmake-build-debug/chapter_2/program_lists/Makefile
+cmake-build-debug/chapter_3/Makefile
+cmake-build-debug/chapter_3/program_exercises/Makefile
+cmake-build-debug/chapter_3/program_lists/Makefile
+*.bin
+*.check_cache
+*.cpp
+*.log
+cmake-build-debug/CMakeFiles/Makefile2
+cmake-build-debug/CMakeFiles/Makefile2 2
+cmake-build-debug/defines
+*.cbp
+cmake-build-debug/Makefile
+cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId 3.c
+cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.c
